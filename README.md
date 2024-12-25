@@ -124,7 +124,7 @@ The application connects to a MySQL database for storing and retrieving employee
 
 - Java
 
-- MySql
+- MySQL
   
 - JDBC
   
